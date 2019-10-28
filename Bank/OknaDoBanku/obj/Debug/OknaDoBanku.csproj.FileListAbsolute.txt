@@ -9,3 +9,14 @@ C:\Users\tomas\source\repos\Bank\OknaDoBanku\obj\Debug\OknaDoBanku.csproj.CoreCo
 C:\Users\tomas\source\repos\Bank\OknaDoBanku\obj\Debug\OknaDoBanku.exe
 C:\Users\tomas\source\repos\Bank\OknaDoBanku\obj\Debug\OknaDoBanku.pdb
 C:\Users\tomas\source\repos\Bank\OknaDoBanku\obj\Debug\OknaDoBanku.Form2.resources
+C:\Users\tomas\source\repos\GIthub\Bank\OknaDoBanku\bin\Debug\OknaDoBanku.exe.config
+C:\Users\tomas\source\repos\GIthub\Bank\OknaDoBanku\bin\Debug\OknaDoBanku.exe
+C:\Users\tomas\source\repos\GIthub\Bank\OknaDoBanku\bin\Debug\OknaDoBanku.pdb
+C:\Users\tomas\source\repos\GIthub\Bank\OknaDoBanku\obj\Debug\OknaDoBanku.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\GIthub\Bank\OknaDoBanku\obj\Debug\OknaDoBanku.Form1.resources
+C:\Users\tomas\source\repos\GIthub\Bank\OknaDoBanku\obj\Debug\OknaDoBanku.Form2.resources
+C:\Users\tomas\source\repos\GIthub\Bank\OknaDoBanku\obj\Debug\OknaDoBanku.Properties.Resources.resources
+C:\Users\tomas\source\repos\GIthub\Bank\OknaDoBanku\obj\Debug\OknaDoBanku.csproj.GenerateResource.cache
+C:\Users\tomas\source\repos\GIthub\Bank\OknaDoBanku\obj\Debug\OknaDoBanku.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\GIthub\Bank\OknaDoBanku\obj\Debug\OknaDoBanku.exe
+C:\Users\tomas\source\repos\GIthub\Bank\OknaDoBanku\obj\Debug\OknaDoBanku.pdb
