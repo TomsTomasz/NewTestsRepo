@@ -1,0 +1,11 @@
+C:\Users\tomas\source\repos\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\tomas\source\repos\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\tomas\source\repos\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\tomas\source\repos\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\tomas\source\repos\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\tomas\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
+C:\Users\tomas\source\repos\Bank\Bank\bin\Debug\OknaDoBanku.exe
+C:\Users\tomas\source\repos\Bank\Bank\bin\Debug\OknaDoBanku.pdb
+C:\Users\tomas\source\repos\Bank\Bank\bin\Debug\OknaDoBanku.exe.config
