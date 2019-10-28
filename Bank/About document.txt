@@ -1,0 +1,7 @@
+This is my first CRUD app.
+There is lot of garbage in the code since it was my first normal project.
+Its Windows Form app which contains Bank Menu. After picking an option you could add some accounts etc.
+It is connected to the DB.
+
+I basically took the online course on https://zajacmarek.com/kurs-programowania-c-sharp/ and add some features.
+Most likely it wont work now since I was trying to make some changes in the entity framework but I messed up. 

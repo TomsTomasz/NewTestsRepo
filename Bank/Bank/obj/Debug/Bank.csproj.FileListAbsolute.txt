@@ -13,3 +13,14 @@ C:\Users\tomas\source\repos\GIthub\Bank\Bank\obj\Debug\Bank.csprojAssemblyRefere
 C:\Users\tomas\source\repos\GIthub\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
 C:\Users\tomas\source\repos\GIthub\Bank\Bank\obj\Debug\Bank.exe
 C:\Users\tomas\source\repos\GIthub\Bank\Bank\obj\Debug\Bank.pdb
+C:\Users\tomas\source\repos\GIthub\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\tomas\source\repos\GIthub\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\tomas\source\repos\GIthub\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\tomas\source\repos\GIthub\Bank\Bank\bin\Debug\EntityFramework.dll
+C:\Users\tomas\source\repos\GIthub\Bank\Bank\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomas\source\repos\GIthub\Bank\Bank\bin\Debug\OknaDoBanku.exe
+C:\Users\tomas\source\repos\GIthub\Bank\Bank\bin\Debug\OknaDoBanku.pdb
+C:\Users\tomas\source\repos\GIthub\Bank\Bank\bin\Debug\OknaDoBanku.exe.config
+C:\Users\tomas\source\repos\GIthub\Bank\Bank\bin\Debug\EntityFramework.xml
+C:\Users\tomas\source\repos\GIthub\Bank\Bank\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomas\source\repos\GIthub\Bank\Bank\obj\Debug\Bank.csproj.CopyComplete
