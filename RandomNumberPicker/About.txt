@@ -1,0 +1,5 @@
+Basically I found something like this: https://4.bp.blogspot.com/-gjiYZZQo1_Y/W7dgMR_qSOI/AAAAAAAARB0/_uMgYenz_IoGLXTekYnTHDO5xAJOsNk4wCEwYBhgL/s1600/programing_chalange_v4.png
+
+I wanted to pick one for myself so I put all the green, practical numbers to 1 array and I made app which will return random number from the array.
+I think it would be much more dope to actually read number based on color and print the specific ones but unfortunately right now I am not able to do it since I am not very skilled.
+Given app use random + Next method.
