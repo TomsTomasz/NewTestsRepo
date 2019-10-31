@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace ASCII_ART
 {
-    public partial class Form1 : Form3
+    public partial class Form1 : Form2
     {
         public Form1()
         {
@@ -33,13 +33,9 @@ namespace ASCII_ART
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
-            Form2 forma = new Form2();
-            this.Close();
-            forma.ShowDialog();
-        }
 
-        
+        }
     }
 }
