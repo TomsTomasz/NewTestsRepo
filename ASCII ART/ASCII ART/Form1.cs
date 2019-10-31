@@ -30,16 +30,17 @@ namespace ASCII_ART
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            Form2 anotherone = new Form2();
+            anotherone.ShowDialog();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
-            Form2 forma = new Form2();
-            this.Close();
-            forma.ShowDialog();
+
+<<<<<<< HEAD
+
+=======
         }
-
-
+>>>>>>> browse_tab
     }
 }
