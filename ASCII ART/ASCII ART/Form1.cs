@@ -30,7 +30,8 @@ namespace ASCII_ART
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            Form2 anotherone = new Form2();
+            anotherone.ShowDialog();
         }
 
         private void Form1_Load(object sender, EventArgs e)
