@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace ASCII_ART
 {
-    public partial class Form1 : Form3
+    public partial class Form1 : Form2
     {
         public Form1()
         {
@@ -40,6 +40,6 @@ namespace ASCII_ART
             forma.ShowDialog();
         }
 
-        
+
     }
 }

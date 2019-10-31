@@ -27,10 +27,9 @@ namespace ASCII_ART
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        public void button2_Click(object sender, EventArgs e)
         {
-            Form3 przejscie = new Form3();
-            przejscie.ShowDialog();
+
         }
 
         private void button3_Click(object sender, EventArgs e)
