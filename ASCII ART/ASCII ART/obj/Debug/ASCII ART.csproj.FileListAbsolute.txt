@@ -14,4 +14,3 @@ C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\obj\Debug\ASCII ART.exe
 C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\obj\Debug\ASCII ART.pdb
 C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\obj\Debug\ASCII_ART.Form1.resources
 C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\obj\Debug\ASCII ART.csproj.GenerateResource.cache
-C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\obj\Debug\ASCII_ART.Form2.resources
