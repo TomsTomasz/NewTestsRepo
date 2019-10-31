@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Table]
+(
+	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [ImgName] NCHAR(10) NULL, 
+    [File] VARBINARY(MAX) NULL
+)

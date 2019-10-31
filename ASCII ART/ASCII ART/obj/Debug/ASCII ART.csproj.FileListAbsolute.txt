@@ -1,0 +1,18 @@
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\bin\Debug\AsciiArtTable.mdf
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\bin\Debug\AsciiArtTable_log.ldf
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\bin\Debug\ASCII ART.exe.config
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\bin\Debug\ASCII ART.exe
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\bin\Debug\ASCII ART.pdb
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\bin\Debug\EntityFramework.dll
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\bin\Debug\EntityFramework.xml
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\obj\Debug\ASCII ART.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\obj\Debug\ASCII ART.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\obj\Debug\ASCII ART.csproj.CopyComplete
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\obj\Debug\ASCII ART.exe
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\obj\Debug\ASCII ART.pdb
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\obj\Debug\ASCII_ART.Form1.resources
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\obj\Debug\ASCII ART.csproj.GenerateResource.cache
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\obj\Debug\ASCII_ART.Form2.resources
+C:\Users\tomas\source\repos\GIthub\ASCII ART\ASCII ART\obj\Debug\ASCII_ART.Form3.resources
