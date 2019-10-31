@@ -37,10 +37,8 @@ namespace ASCII_ART
         private void Form1_Load(object sender, EventArgs e)
         {
 
-<<<<<<< HEAD
 
-=======
         }
->>>>>>> browse_tab
+
     }
 }
