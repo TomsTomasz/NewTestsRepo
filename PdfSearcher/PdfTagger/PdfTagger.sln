@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfTagger", "PdfTagger\PdfTagger.csproj", "{A7B49584-2BDD-431C-8C56-900F35F22972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7B49584-2BDD-431C-8C56-900F35F22972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B49584-2BDD-431C-8C56-900F35F22972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B49584-2BDD-431C-8C56-900F35F22972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B49584-2BDD-431C-8C56-900F35F22972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B60D7D12-8E4B-4097-ADFB-9F12D58331A9}
+	EndGlobalSection
+EndGlobal
